@@ -3,7 +3,9 @@
 **Data-Driven Activity Analysis for Maximum Impact**  
 Analysis of 9 months of activity data (February-November 2024) to optimize time-resource allocation and value generation.
 
-### [Live Dashboard]
+### Live Dashboard
+<h2 className="text-blue-600 text-xl font-bold">Live Dashboard</h2>
+
 
 ```jsx
 import React from 'react';
