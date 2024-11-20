@@ -6,7 +6,6 @@ Analysis of 9 months of activity data (February-November 2024) to optimize time-
 ### Live Dashboard
 <h2 className="text-blue-600 text-xl font-bold">Live Dashboard</h2>
 
-
 ```jsx
 import React from 'react';
 import { BarChart, Bar, LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
