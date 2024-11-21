@@ -1,4 +1,4 @@
-# Time Optimization Analysis Using 80/20 Principle
+# Time-Value Optimization Analysis Using 80/20 Principle
 
 **Data-Driven Activity Analysis for Maximum Impact**  
 Analysis of 9 months of activity data (February-November 2024) to optimize time-resource allocation and value generation.
