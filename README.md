@@ -51,6 +51,8 @@ Our analysis revealed optimization opportunities aligned with the Pareto Princip
   - Maslow's Hierarchy Integration
   - Value Generation Metrics
  
+## Airtable Time-Value Tracking
+ 
   ![Airtable Time-Value Tracking](time-value-airtable.png)
  
 ---
