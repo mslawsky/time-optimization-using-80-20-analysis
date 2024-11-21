@@ -56,7 +56,42 @@ Our analysis revealed opportunities to optimize time-resource allocation, but al
   ![Airtable Time-Value Tracking](time-value-airtable.png)
 
   ---
-## Tableau Dashboard Visualization
+## Tableau Visualization Methods
+
+**1. Activity Trend**
+
+Visualization Type: Line Graph
+This visualization displays the average activity tracked on a month-to-month basis. It provides insight into trends over time, helping users identify patterns of engagement and periods of high or low activity. The x-axis represents the months, and the y-axis shows the average activity count.
+
+
+**2. Activity Distribution**
+
+Visualization Type: Horizontal Bar Graph
+This chart represents the distribution of activities across different categories. Each bar corresponds to a category, and the length of the bar indicates the number of times that category appears in the dataset. This visualization helps in understanding which categories dominate or are underrepresented in the data.
+
+
+**3. Value Analysis**
+
+Visualization Type: Tree Map
+The tree map illustrates the distribution of activities by core values, providing a clear visual representation of the relative frequency of activities aligned with each value. Larger blocks represent higher frequencies, offering a quick snapshot of where activities contribute most to overarching values.
+
+
+**4. Core Values Alignment**
+
+Visualization Type: Bubble Chart
+This chart highlights the proportion of activities that align with core values. Each bubble represents a core value, with the size of the bubble proportional to the frequency of activities aligned with that value. It visually emphasizes which core values are most frequently integrated into tracked activities.
+
+
+**5. Metrics**
+
+Visualization Type: Text Table
+A text-based metrics box provides a breakdown of activities by:
+
+    Value Generation: Activities categorized as High, Medium, or Low value.
+    Core Values vs. Short-Term Value Generation: The balance between activities aligned with long-term core values and those that prioritize short-term gains.
+    Optimization Rate: A percentage reflecting the alignment of high-value activities with core values.
+
+This text summary complements the visualizations by offering precise numeric insights for deeper understanding.
 
 
 
