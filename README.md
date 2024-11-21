@@ -87,9 +87,9 @@ This chart highlights the proportion of activities that align with core values. 
 Visualization Type: Text Table
 A text-based metrics box provides a breakdown of activities by:
 
-    Value Generation: Activities categorized as High, Medium, or Low value.
-    Core Values vs. Short-Term Value Generation: The balance between activities aligned with long-term core values and those that prioritize short-term gains.
-    Optimization Rate: A percentage reflecting the alignment of high-value activities with core values.
+- Value Generation: Activities categorized as High, Medium, or Low value.
+- Core Values vs. Short-Term Value Generation: The balance between activities aligned with long-term core values and those that prioritize short-term gains.
+- Optimization Rate: A percentage reflecting the alignment of high-value activities with core values.
 
 This text summary complements the visualizations by offering precise numeric insights for deeper understanding.
 
