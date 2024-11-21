@@ -5,7 +5,7 @@ Analysis of 9 months of activity data (February-November 2024) to optimize time-
 
 ### [Live Dashboard](https://public.tableau.com/app/profile/melissa.slawsky1925/viz/Time-ValueOptimizationDashboard/Dashboard)
 
-![Dashboard Overview](time-value-optimization-dashboard.png)
+![Dashboard Overview](time-value-optimization-dashboard-2.png)
 
 ---
 
