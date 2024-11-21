@@ -11,6 +11,8 @@ Analysis of 9 months of activity data (February-November 2024) to optimize time-
 
 ## Executive Summary & Key Findings
 
+![Executive Summary](time-value-executive-summary.png)
+
 ---
 
 ### Strategic Insights: The 80/20 Principle in Action
