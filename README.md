@@ -44,11 +44,13 @@ Our analysis revealed optimization opportunities aligned with the Pareto Princip
 
 ### Data Collection Framework
 - Duration: 9 months (Feb-Nov 2024)
-- Activities Tracked: 651 total
+- Activities Tracked: 1370 total
 - Classification System:
   - Activity Categories
-  - Action Types
+  - Core Values Alignment
   - Maslow's Hierarchy Integration
   - Value Generation Metrics
+ 
+  ![Airtable Time-Value Tracking](time-value-airtable.png)
  
 ---
