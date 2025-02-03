@@ -98,13 +98,11 @@ This text summary complements the visualizations by offering precise numeric ins
   ---
 
   ## Contact 📧
-- [LinkedIn Profile](https://www.linkedin.com/in/melissaslawsky/)
-- [Professional Website](https://melissaslawsky.com/client-results/)
 - [Tableau Portfolio](https://public.tableau.com/app/profile/melissa.slawsky1925/vizzes)
-- [Substack Writings](https://melissaslawsky.substack.com/)
+- [Client Results](https://melissaslawsky.com/client-results/)
 - [Email](mailto:melissa@melissaslawsky.com)
 
 ---
-© Melissa Slawsky 2024. All Rights Reserved.
+© Melissa Slawsky 2025. All Rights Reserved.
  
 ---
